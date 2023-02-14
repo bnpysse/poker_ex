@@ -1,5 +1,3 @@
-use std::fmt;
-
 /// Given a list of poker hands, return a list of those hands which win.
 ///
 /// Note the type signature: this function should return _the same_ reference to
